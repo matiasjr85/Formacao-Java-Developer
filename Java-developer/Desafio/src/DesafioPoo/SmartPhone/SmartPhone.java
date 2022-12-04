@@ -14,6 +14,7 @@ public class SmartPhone {
         NavegadorInternet navegadorInternet = smartPhone;
         ReprodutorMusical reprodutorMusical = smartPhone;
 
+
         aparelhoTelefonico.atender();
         System.out.println("");
         aparelhoTelefonico.ligar();
